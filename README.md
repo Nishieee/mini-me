@@ -2,6 +2,8 @@
 
 MiniMe is your desktop AI agent that activates when you say "Hey MiniMe", listens to your voice, processes it through your dual-personality system prompt, and responds through a cloned voice.
 
+### Fun Agent created for Eleven Labs Hackathon!
+
 ## Complete Pipeline
 
 **Wake → Listen → Transcribe → LLM → TTS → MiniMe Speaks**
